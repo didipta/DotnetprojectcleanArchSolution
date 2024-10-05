@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\project.Domain.csproj",
-      "projectName": "project.Domain",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\project.Domain.csproj",
+      "projectUniqueName": "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
+      "projectName": "Project.Domain",
+      "projectPath": "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\obj\\",
+      "outputPath": "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\bin\Debug\net8.0\Project.Appliction.deps.json
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\bin\Debug\net8.0\Project.Appliction.dll
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\bin\Debug\net8.0\Project.Appliction.pdb
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\bin\Debug\net8.0\Project.Domain.dll
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\bin\Debug\net8.0\Project.Domain.pdb
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.csproj.AssemblyReference.cache
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.AssemblyInfoInputs.cache
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.AssemblyInfo.cs
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.csproj.CoreCompileInputs.cache
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.sourcelink.json
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project..FEBA48D4.Up2Date
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.dll
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\refint\Project.Appliction.dll
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\Project.Appliction.pdb
+D:\NewDotnetproject\Dotnetprojectclean\Project.Appliction\obj\Debug\net8.0\ref\Project.Appliction.dll

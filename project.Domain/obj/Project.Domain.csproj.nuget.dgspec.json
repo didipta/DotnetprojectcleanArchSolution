@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj": {}
+    "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj": {
+    "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
+        "projectPath": "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\obj\\",
+        "outputPath": "D:\\NewDotnetproject\\Dotnetprojectclean\\project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

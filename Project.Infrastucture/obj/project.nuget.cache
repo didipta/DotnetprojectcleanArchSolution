@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/r4iizVEwY=",
+  "dgSpecHash": "Ium1HeQg1Is=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\Project.Infrastucture\\Project.Infrastucture.csproj",
+  "projectFilePath": "D:\\NewDotnetproject\\Dotnetprojectclean\\Project.Infrastucture\\Project.Infrastucture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
