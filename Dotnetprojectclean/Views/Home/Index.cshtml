@@ -1,8 +1,17 @@
-﻿@{
+﻿@model IEnumerable<Project.Domain.Entities.Product>
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Welcome @Model.Count()</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    @foreach(var product in Model)
+    {
+        <p>@product.Name</p>
+        <p>@product.BrandId</p>
+        <p>@product.Category.Name</p>
+        
+    }
 </div>

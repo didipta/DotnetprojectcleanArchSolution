@@ -170,3 +170,9 @@ D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\obj\Debug\net8.0\refin
 D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\obj\Debug\net8.0\Dotnetprojectclean.pdb
 D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\obj\Debug\net8.0\Dotnetprojectclean.genruntimeconfig.cache
 D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\obj\Debug\net8.0\ref\Dotnetprojectclean.dll
+D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\bin\Debug\net8.0\FluentValidation.dll
+D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\bin\Debug\net8.0\Project.Appliction.dll
+D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\bin\Debug\net8.0\Project.Appliction.pdb
+D:\NewDotnetproject\Dotnetprojectclean\Dotnetprojectclean\obj\Debug\net8.0\Dotnetprojectclean.MvcApplicationPartsAssemblyInfo.cs

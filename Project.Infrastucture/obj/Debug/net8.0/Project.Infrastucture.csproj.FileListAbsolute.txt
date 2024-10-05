@@ -16,3 +16,5 @@ D:\NewDotnetproject\Dotnetprojectclean\Project.Infrastucture\obj\Debug\net8.0\re
 D:\NewDotnetproject\Dotnetprojectclean\Project.Infrastucture\obj\Debug\net8.0\Project.Infrastucture.pdb
 D:\NewDotnetproject\Dotnetprojectclean\Project.Infrastucture\obj\Debug\net8.0\Project.Infrastucture.genruntimeconfig.cache
 D:\NewDotnetproject\Dotnetprojectclean\Project.Infrastucture\obj\Debug\net8.0\ref\Project.Infrastucture.dll
+D:\NewDotnetproject\Dotnetprojectclean\Project.Infrastucture\bin\Debug\net8.0\Project.Appliction.dll
+D:\NewDotnetproject\Dotnetprojectclean\Project.Infrastucture\bin\Debug\net8.0\Project.Appliction.pdb

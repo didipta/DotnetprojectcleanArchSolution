@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using Project.Appliction.Interfaces;
+using Project.Appliction.Services;
 using Project.Infrastucture.Data;
+using Project.Infrastucture.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +11,10 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IGenericService<>), typeof(GenericService<>));
+
 
 var app = builder.Build();
 
