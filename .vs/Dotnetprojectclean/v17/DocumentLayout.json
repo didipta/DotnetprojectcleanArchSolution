@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B8E00-1D5B-4F0B-90AB-3B42C69DAAF6}|Project.Infrastucture\\Project.Infrastucture.csproj|c:\\users\\asus\\source\\repos\\dotnetprojectclean\\project.infrastucture\\project.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F9B8E00-1D5B-4F0B-90AB-3B42C69DAAF6}|Project.Infrastucture\\Project.Infrastucture.csproj|solutionrelative:project.infrastucture\\project.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCBFD7-41E4-4EA7-BC9A-F9C5E749C888}|Project.Appliction\\Project.Appliction.csproj|c:\\users\\asus\\source\\repos\\dotnetprojectclean\\project.appliction\\project.appliction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FCBFD7-41E4-4EA7-BC9A-F9C5E749C888}|Project.Appliction\\Project.Appliction.csproj|solutionrelative:project.appliction\\project.appliction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45172CCA-D4EF-44D2-9561-6D7BD044DA40}|project.Domain\\Project.Domain.csproj|c:\\users\\asus\\source\\repos\\dotnetprojectclean\\project.domain\\project.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45172CCA-D4EF-44D2-9561-6D7BD044DA40}|project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\project.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 326,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.Infrastucture",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\Project.Infrastucture\\Project.Infrastucture.csproj",
+              "RelativeDocumentMoniker": "Project.Infrastucture\\Project.Infrastucture.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\Project.Infrastucture\\Project.Infrastucture.csproj",
+              "RelativeToolTip": "Project.Infrastucture\\Project.Infrastucture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T05:57:33.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.Appliction",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\Project.Appliction\\Project.Appliction.csproj",
+              "RelativeDocumentMoniker": "Project.Appliction\\Project.Appliction.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\Project.Appliction\\Project.Appliction.csproj",
+              "RelativeToolTip": "Project.Appliction\\Project.Appliction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T05:56:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.Domain",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
+              "RelativeDocumentMoniker": "project.Domain\\Project.Domain.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Dotnetprojectclean\\project.Domain\\Project.Domain.csproj",
+              "RelativeToolTip": "project.Domain\\Project.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T05:55:25.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
