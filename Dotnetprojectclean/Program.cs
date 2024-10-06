@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Project.Appliction.Interfaces;
 using Project.Appliction.Services;
+using Project.Appliction.Services.Implementation;
 using Project.Infrastucture.Data;
+using Project.Infrastucture.Extensions;
 using Project.Infrastucture.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,8 +14,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
-builder.Services.AddScoped(typeof(IGenericService<>), typeof(GenericService<>));
+// Use the new extension method for service registration
+builder.Services.AddProjectServices();
 
 
 var app = builder.Build();

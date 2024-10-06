@@ -1,6 +1,7 @@
 using Dotnetprojectclean.Models;
 using Microsoft.AspNetCore.Mvc;
 using Project.Appliction.Interfaces;
+using Project.Appliction.Services.Implementation;
 using Project.Domain.Entities;
 using System.Diagnostics;
 
@@ -9,10 +10,10 @@ namespace Dotnetprojectclean.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IGenericService<Product> _productService;
+        private readonly ProductServices _productService;
 
 
-        public HomeController(ILogger<HomeController> logger,IGenericService<Product> productService)
+        public HomeController(ILogger<HomeController> logger,ProductServices productService)
         {
             _logger = logger;
             _productService = productService;
@@ -20,7 +21,7 @@ namespace Dotnetprojectclean.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var products = await _productService.GetAllAsync(p=>p.Brand,p=>p.Category);
+            var products = await _productService.GetAllAsync();
             Console.WriteLine(products.Count());
             return View(products);
         }

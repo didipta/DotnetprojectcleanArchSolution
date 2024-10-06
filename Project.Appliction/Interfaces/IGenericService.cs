@@ -10,7 +10,7 @@ namespace Project.Appliction.Interfaces
 {
     public interface IGenericService<T> where T : BaseEntity
     {
-        Task<IEnumerable<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties);
+        Task<IEnumerable<T>> GetAllAsync();
         Task<T> GetByIdAsync(int id);
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);

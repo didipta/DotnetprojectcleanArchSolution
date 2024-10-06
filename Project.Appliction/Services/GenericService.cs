@@ -18,9 +18,9 @@ namespace Project.Appliction.Services
             _repository = repository;
         }
 
-        public async Task<IEnumerable<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties)
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
-            return await _repository.GetAllAsync(includeProperties);
+            return await _repository.GetAllAsync();
         }
 
         public async Task<T> GetByIdAsync(int id)
