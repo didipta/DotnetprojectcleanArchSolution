@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Project.Appliction.Interfaces
 {
-    public interface IRepository<T> where T : BaseEntity
+    public interface IRepository<T> where T : class
     {
         Task<IEnumerable<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties);
         Task<T> GetByIdAsync(int id, params Expression<Func<T, object>>[] includeProperties);

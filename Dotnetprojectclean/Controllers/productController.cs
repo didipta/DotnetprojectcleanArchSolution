@@ -22,7 +22,15 @@ namespace Dotnetprojectclean.Controllers
         public async Task<IActionResult> Get()
         {
             var products = await _productService.GetAllAsync();
-            return Ok(products);
+            
+            return Ok(
+                new
+                {
+                    data = products.Data,
+                    message = products.Message,
+                    success = products.Success
+                }
+                );
         }
 
         // GET: api/product/5

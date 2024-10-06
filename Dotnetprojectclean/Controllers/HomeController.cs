@@ -22,7 +22,7 @@ namespace Dotnetprojectclean.Controllers
         public async Task<IActionResult> Index()
         {
             var products = await _productService.GetAllAsync();
-            Console.WriteLine(products.Count());
+            
             return View(products);
         }
 

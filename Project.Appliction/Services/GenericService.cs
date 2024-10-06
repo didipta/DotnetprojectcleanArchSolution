@@ -1,4 +1,5 @@
 ﻿using Project.Appliction.Interfaces;
+using Project.Appliction.Services.CommonResponse;
 using Project.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -18,9 +19,10 @@ namespace Project.Appliction.Services
             _repository = repository;
         }
 
-        public async Task<IEnumerable<T>> GetAllAsync()
+        public async Task<ApiResponse<IEnumerable<T>>> GetAllAsync()
         {
-            return await _repository.GetAllAsync();
+            var data = await _repository.GetAllAsync();
+            return new ApiResponse<IEnumerable<T>>(data, "Products found successfully");
         }
 
         public async Task<T> GetByIdAsync(int id)

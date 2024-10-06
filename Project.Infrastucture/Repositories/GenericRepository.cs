@@ -26,10 +26,10 @@ namespace Project.Infrastucture.Repositories
         {
             IQueryable<T> query = _dbSet;
 
-            foreach (var includeProperty in includeProperties)
-            {
-                query = query.Include(includeProperty);
-            }
+            //foreach (var includeProperty in includeProperties)
+            //{
+            //    query = query.Include(includeProperty);
+            //}
 
             return await query.ToListAsync();
         }
